@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/trM4AXW.jpeg" alt="Star Wars Banner" width="800"/>
+</p>
+  
   Hello there! Eu sou o Icaro Maximus.
 
 > Desenvolvedor curioso e explorador.  
@@ -15,12 +19,20 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IcaroMax&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMax&layout=compact&theme=tokyonight)
+  
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IcaroMax&show_icons=true&theme=tokyonight"/>
+  
+  <!-- Top Languages -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMax&layout=compact&theme=tokyonight"/>
+  
+</div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   Onde me encontrar
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro.maximus/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro.maximus/)  
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553172243278)
