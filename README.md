@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/trM4AXW.jpeg" alt="Star Wars Banner" width="800"/>
-</p>
-  
   Hello there! Eu sou o Icaro Maximus.
 
 > Desenvolvedor curioso e explorador.  
