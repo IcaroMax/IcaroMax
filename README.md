@@ -1,16 +1,26 @@
-## Hi there 👋
+  Hello there! Eu sou o Icaro Maximus.
 
-<!--
-**IcaroMax/IcaroMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desenvolvedor curioso e explorador.  
+> Foco atual em: **Java, Spring Boot, React, e APIs**.  
+> Sempre em busca de aprender e colaborar em projetos (open-source ou não)
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IcaroMax&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMax&layout=compact&theme=tokyonight)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Onde me encontrar
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro.maximus/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553172243278)
