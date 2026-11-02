@@ -91,16 +91,11 @@ Minha atuação é orientada ao desenvolvimento ponta a ponta (**Forward Deploye
 
 ### 📊 Estatísticas do GitHub & Atividade
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaromax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaromax&layout=compact&theme=tokyonight&hide_border=true" height="175" />
-</div>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IcaroMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaromax&theme=tokyonight&hide_border=true" />
-</div>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IcaroMax&layout=compact&theme=tokyonight&hide_border=true)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=IcaroMax&theme=tokyonight&hide_border=true)
 
 ### 🐍 Histórico de Contribuições
 
