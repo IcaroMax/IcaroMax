@@ -102,7 +102,11 @@ Minha atuação é orientada ao desenvolvimento ponta a ponta (**Forward Deploye
 <br/>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=IcaroMax&amp;theme=tokyonight&amp;hide_border=true&amp;timezone=America%2FManaus" />
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+    height="180"
+  />
 </div>
 
 ### 🐍 Histórico de Contribuições
