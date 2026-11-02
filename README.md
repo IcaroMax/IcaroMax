@@ -111,10 +111,12 @@ Minha atuação é orientada ao desenvolvimento ponta a ponta (**Forward Deploye
 
 ### 🐍 Histórico de Contribuições
 
+### 🐍 Histórico de Contribuições
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icaromax/icaromax/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icaromax/icaromax/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/icaromax/icaromax/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IcaroMax/IcaroMax/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IcaroMax/IcaroMax/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/IcaroMax/IcaroMax/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
