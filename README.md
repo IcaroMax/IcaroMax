@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou Desenvolvedor de Software e Engenheiro de IA (graduando em **Sistemas de Informação na Fametro**, 7º período), com experiência prática no **INDT (Instituto de Desenvolvimento Tecnológico)** atuando em validação técnica, automação e segurança da informação em ecossistemas móveis corporativos (ThinkShield).
+Sou Desenvolvedor de Software e Engenheiro de IA (graduando em **Sistemas de Informação na Fametro**, 8º período), com experiência prática no **INDT (Instituto de Desenvolvimento Tecnológico)** atuando em validação técnica, automação e segurança da informação em ecossistemas móveis corporativos (ThinkShield).
 
 Minha atuação é orientada ao desenvolvimento ponta a ponta (**Forward Deployed Engineering**), unindo:
 1. **Engenharia de Software & Full Stack:** Criação de microsserviços de alto desempenho e APIs assíncronas com **Python (FastAPI)** e **Java (Spring Boot)**, com streaming bidirecional via **WebSockets** e renderização de vídeo em tempo real no **HTML5 Canvas**.
