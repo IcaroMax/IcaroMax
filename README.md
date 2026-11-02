@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=220&section=header&text=Icaro%20Maximus&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20%7C%20Data%20Pipelines&descFontSize=18&descAlignY=62&descColor=00f2fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=220&section=header&text=Icaro%20Maximus&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20and%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20%7C%20Data%20Pipelines&descFontSize=18&descAlignY=62&descColor=00f2fe" width="100%" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/icaromax)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaromaximus3421@gmail.com)
